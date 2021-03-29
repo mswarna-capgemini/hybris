@@ -7,4 +7,4 @@
 !/bin/custom
 /roles
 # Hybris123SnippetEnd
-/temp
+/temp*  
